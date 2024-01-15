@@ -1,0 +1,10 @@
+print("Simo"[0]) #izpisva 1va bukva
+
+
+
+
+### printira samo chetnite bukvi
+text = input()
+for index, character in enumerate(text):
+    if index % 2 == 0:
+        print(character)

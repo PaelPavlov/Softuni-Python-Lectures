@@ -1,0 +1,11 @@
+Python
+
+IDE -> PyCharm
+
+snake_case_naming_convetion
+camelName
+
+
+IDE Commands
+
+Ctrl + Shift + F10
