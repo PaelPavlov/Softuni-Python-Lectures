@@ -5,207 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second">
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_10_functions_with_output/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_10_functions_with_output/day_month_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_10_functions_with_output/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_10_functions_with_output/functions_with_if_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_11_blackjack_project/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_7/hangman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_8_function_parameters/caesar_cypher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_8_function_parameters/function_with_multiple_inputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_8_function_parameters/functions_with_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_8_function_parameters/paint_calculator_using_key_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_8_function_parameters/prime_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_9_dictionaries_nesting/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_9_dictionaries_nesting/dictionary_in_list_cities_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_9_dictionaries_nesting/nesting_dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_9_dictionaries_nesting/silent_auction_exercise_REWATCH_AGAIN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/day_9_dictionaries_nesting/student_grades_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/for loops/00_notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/for loops/01_even_numbers_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/for loops/02_fizzbuzz_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/lists/01_heads_tails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/lists/01_random_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/lists/02_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../udemy_practice/while loops/00_notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/01_number_definer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/02_largest_of_three_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/07_pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/08_patterns_extended.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming Fundamentals Python/examples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/architect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/greetings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/hello_softuni" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/personal_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/pet_shop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/01_first_steps_in_programming/yard_greening.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/00_notes_lectures/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/01_currency_convertor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/02_Radians_to_Degrees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/03_Deposit_Calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/04_vacation_book_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/05_supplies_for_school.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/06_repainting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/07_food_delivery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/08_basketball_equipment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/09_aquarium.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/00_for_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/01_excellent_result.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/02_graeter_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/03_even_odd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/04_guess_the_password.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/05_number_100_200.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/06_speed_information.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/03_debugging/07_rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/01_for_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/01_sum_seconds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/02_bonus_score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/03_time+15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/04_toy_shop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/05_kong_movie.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/06_world_record_NOT_WORKING.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/07_shopping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/04_debugging/08_obedna_pochivka.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/01_day_of_the_week.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/02_workingday_or_weekend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/03_animal_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/04_titles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/05_kiosk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/06_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/07_open_close.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/08_cinema_ticket.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/09_fruit_or_veggie.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/10_invalid_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/11_fruit_vendor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/05_debugging/12_comission.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/01_cinema.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/03_new_house.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/04_fishing_boat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/05_journey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/06_operation_between_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/07_hotel_room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/08_student_exam.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/06_debugging/09_ski_trip.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/01_old_books.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/02_exam_preparation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/03_vacation_not_done.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/04_walking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/05_coins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/06_cake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/10_while_practice/07_moving.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/01_clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/02_multiplication_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/03_combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/04_sum_of_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/05_travelling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/11_nested_loops/06_building_formatirane_na_print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/01_pyramid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/02_numbers_interation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/04_train_the_trainers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/05_special_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/06_cinema_tickets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/12_nested_loops_practice/3_sum_prime_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/FUND" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/00_for_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/01_numbers_ending_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/02_half_sum_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/03_histogram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/04_clever_lilly.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/05_salary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/06_oscars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/07_trekking_mania.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/eight_day_for_loop/08_tennis_ranklist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam/fifth_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam/first_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam/forth_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam/second_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam/third_one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/01_sales.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/02_luggage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/03_harvest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/03_series_calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/04_movie_profits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/05_movie_day.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/06_movie_premiere.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/07_water_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/08_sleepy_cat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/09_advanced_statements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/10_truck_driver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/11_back_from_the_past.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/12_hospital.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/13_cinema_vaucher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/14_movie_ratings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/15_balls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/16_footballer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/17_pin_codes_not_done.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/18_decoration_not_done.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/19_printing_letters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/20_powerful_words_not_done.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/exam_prep/21_barcodes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/01_reading_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/02_passwords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/03_sum_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/04_sequence_of_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/05_account_balance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/06_max_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/07_min_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/ninth_week_for_while/08_graduation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/00_notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/01_numbers_1_100.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/02_numers_1_to_n.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/03_even_numbers_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/04_number_to_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/05_text_for_cycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/06_vowels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/07_sumirane_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/08_redica_chisla.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/09_left_right_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Programming basic Python/seventh_day_for_loop/10_even_or_odd_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/Python Console.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_10_functions_with_output/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_10_functions_with_output/day_month_exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_10_functions_with_output/functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_10_functions_with_output/functions_with_if_statement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_11_blackjack_project/blackjack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_7/hangman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_8_function_parameters/caesar_cypher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_8_function_parameters/function_with_multiple_inputs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_8_function_parameters/functions_with_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_8_function_parameters/paint_calculator_using_key_parameters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_8_function_parameters/prime_checker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_9_dictionaries_nesting/dictionaries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_9_dictionaries_nesting/dictionary_in_list_cities_exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_9_dictionaries_nesting/nesting_dictionaries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_9_dictionaries_nesting/silent_auction_exercise_REWATCH_AGAIN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/day_9_dictionaries_nesting/student_grades_exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/for loops/00_notes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/for loops/01_even_numbers_in_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/for loops/02_fizzbuzz_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/lists/01_heads_tails.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/lists/01_random_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/lists/02_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programming Basics Python/udemy_practice/while loops/00_notes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -253,17 +62,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Visual Studio Code/udemy_practice",
-    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Visual Studio Code/Softuni Lectures&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Visual Studio Code\Programming Basics Python" />
@@ -300,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705343396862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First row added&#10;second">
+      <option name="closed" value="true" />
+      <created>1705345010092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705345010092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First row added&#10;second">
+      <option name="closed" value="true" />
+      <created>1705345154209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705345154209</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
