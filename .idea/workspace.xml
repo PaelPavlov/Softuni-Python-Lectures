@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added">
+      <change afterPath="$PROJECT_DIR$/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/01_number_definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/02_largest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/07_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/08_patterns_extended.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/00_for_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/01_excellent_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/02_graeter_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/03_even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/04_guess_the_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/05_number_100_200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/06_speed_information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/03_debugging/07_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/01_for_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/01_sum_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/02_bonus_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/03_time+15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/04_toy_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/05_kong_movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/06_world_record_NOT_WORKING.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/07_shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/04_debugging/08_obedna_pochivka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/01_day_of_the_week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/02_workingday_or_weekend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/03_animal_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/04_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/05_kiosk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/06_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/07_open_close.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/08_cinema_ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/09_fruit_or_veggie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/10_invalid_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/11_fruit_vendor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/05_debugging/12_comission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/01_cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/03_new_house.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/04_fishing_boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/05_journey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/06_operation_between_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/07_hotel_room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/08_student_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/06_debugging/09_ski_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/01_old_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/02_exam_preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/03_vacation_not_done.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/04_walking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/05_coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/06_cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/10_while_practice/07_moving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/01_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/02_multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/03_combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/04_sum_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/05_travelling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/11_nested_loops/06_building_formatirane_na_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/01_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/02_numbers_interation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/04_train_the_trainers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/05_special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/06_cinema_tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/12_nested_loops_practice/3_sum_prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/FUND" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/00_for_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/01_numbers_ending_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/02_half_sum_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/03_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/04_clever_lilly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/05_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/06_oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/07_trekking_mania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/08_tennis_ranklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam/fifth_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam/first_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam/forth_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam/second_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam/third_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/01_sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/02_luggage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/03_harvest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/03_series_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/04_movie_profits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/05_movie_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/06_movie_premiere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/07_water_pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/08_sleepy_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/09_advanced_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/10_truck_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/11_back_from_the_past.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/12_hospital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/13_cinema_vaucher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/14_movie_ratings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/15_balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/16_footballer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/17_pin_codes_not_done.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/18_decoration_not_done.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/19_printing_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/20_powerful_words_not_done.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/exam_prep/21_barcodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/01_reading_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/02_passwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/03_sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/04_sequence_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/05_account_balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/06_max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/07_min_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/ninth_week_for_while/08_graduation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/00_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/01_numbers_1_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/02_numers_1_to_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/03_even_numbers_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/04_number_to_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/05_text_for_cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/06_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/07_sumirane_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/08_redica_chisla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/09_left_right_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/10_even_or_odd_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_10_functions_with_output/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_10_functions_with_output/day_month_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_10_functions_with_output/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_10_functions_with_output/functions_with_if_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_11_blackjack_project/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_7/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_8_function_parameters/caesar_cypher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_8_function_parameters/function_with_multiple_inputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_8_function_parameters/functions_with_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_8_function_parameters/paint_calculator_using_key_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_8_function_parameters/prime_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_9_dictionaries_nesting/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_9_dictionaries_nesting/dictionary_in_list_cities_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_9_dictionaries_nesting/nesting_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_9_dictionaries_nesting/silent_auction_exercise_REWATCH_AGAIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/day_9_dictionaries_nesting/student_grades_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/for loops/00_notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/for loops/01_even_numbers_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/for loops/02_fizzbuzz_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/lists/01_heads_tails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/lists/01_random_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/lists/02_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy_practice/while loops/00_notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/architect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/architect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/greetings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/hello_softuni" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/hello_softuni" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/personal_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/personal_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/pet_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/pet_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_day/yard_greening.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/01_first_steps_in_programming/yard_greening.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/00_notes_lectures/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/00_notes_lectures/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/01_currency_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/01_currency_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/02_Radians_to_Degrees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/02_Radians_to_Degrees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/03_Deposit_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/03_Deposit_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/04_vacation_book_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/04_vacation_book_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/05_supplies_for_school.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/05_supplies_for_school.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/06_repainting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/06_repainting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/07_food_delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/07_food_delivery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/08_basketball_equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/08_basketball_equipment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/09_aquarium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/09_aquarium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_day/01_first_steps_in_coding/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming basic Python/02_first_steps_in_programming/01_first_steps_in_coding/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FUND-2024-PROJECT/FUND-2024-PROJECT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PaelPavlov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="27e35d7d-8203-4907-bf0a-5d93a5079a60" />
+        <option name="url" value="https://github.com/PaelPavlov/Visual-Studio-Code.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WJ1Y83Z5vAvRw9hZ9iS79hphLC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Visual Studio Code/Programming Basics Python",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Visual Studio Code\Programming Basics Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Visual Studio Code\Programming Basics Python\Programming basic Python" />
+      <recent name="E:\Visual Studio Code\Programming Basics Python\udemy_practice\lists" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="" />
+      <created>1696435913812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696435913812</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First row added">
+      <option name="closed" value="true" />
+      <created>1705343347802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705343347802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First row added" />
+    <option name="LAST_COMMIT_MESSAGE" value="First row added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/05_debugging/12_comission.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/06_debugging/08_student_exam.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/02_luggage.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/03_series_calc.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/04_movie_profits.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/06_movie_premiere.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/10_even_or_odd_sum.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/seventh_day_for_loop/10_even_or_odd_sum.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/08_sleepy_cat.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/08_sleepy_cat.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/09_advanced_statements.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/09_advanced_statements.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/10_truck_driver.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/11_back_from_the_past.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/12_hospital.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/10_while_practice/06_cake.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/13_cinema_vaucher.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/14_movie_ratings.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/15_balls.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/16_footballer.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/18_decoration_not_done.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/17_pin_codes_not_done.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam_prep/20_powerful_words_not_done.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/udemy_practice/lists/01_heads_tails.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/eight_day_for_loop/06_oscars.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/04_debugging/06_world_record_NOT_WORKING.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/04_debugging/06_world_record_NOT_WORKING.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/06_debugging/07_hotel_room.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam/first_one.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam/second_one.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam/third_one.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming basic Python/exam/forth_one.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Fundamentals Python/01_Basic_Syntax_Conditional_Statements_and_Loops/08_patterns_extended.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="time_needed" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
