@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/02_drink_something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/03_chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/04_masimum_multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/05_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/10_mutate_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/12_christmas_spirit.py" afterDir="false" />
-    </list>
+    <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705345154209</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First row added&#10;second">
+      <option name="closed" value="true" />
+      <created>1705346128281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705346128281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
