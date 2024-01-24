@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second" />
+    <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second">
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/00_to_do_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/01_strange_zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/02_lessons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/03_lists_statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/04_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/05_numbers_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2024_20_01_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2024_20_01__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
