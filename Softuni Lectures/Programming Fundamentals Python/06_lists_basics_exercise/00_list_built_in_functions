@@ -1,0 +1,61 @@
+#split()
+name = 'a b c'.split()
+print(name)
+
+#join()
+my_list = ['a', 'b', 'c']
+print('Users', ', '.join(my_list))
+
+#append()
+my_list = [1, 2, 3]
+my_list.append(4)
+print(my_list)
+
+#clear()
+my_list = [1, 2, 3]
+my_list.clear()
+print(my_list)
+
+#count()
+my_list = [1, 2, 3, 3]
+count = my_list.count(3)
+print(count)
+
+#extend()
+my_list = [1, 2, 3]
+his_list = [4, 5, 6]
+my_list.extend(his_list)
+print(my_list)
+
+#index()
+my_list = [1, 2, 3, 2]
+print(my_list.index(2, 2))
+
+#insert()
+my_list = [1, 2, 3]
+my_list.insert(2, 1)
+print(my_list)
+
+#pop()
+my_list = [1, 2, 3]
+my_list.pop(2)
+print(my_list)
+
+#remove() 'Remove all 2'
+my_list = [1, 2, 3, 2]
+for i in range(len(my_list)):
+    if 2 in my_list:
+        my_list.remove(2)
+    else:
+        break
+print(my_list)
+
+#reverse()
+my_list = [1, 2, 3]
+my_list.reverse()
+print(my_list)
+
+#sort()
+my_list = [3, 2, 1]
+my_list.sort()
+print(my_list)
