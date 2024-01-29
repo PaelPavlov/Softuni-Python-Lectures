@@ -1,0 +1,16 @@
+h1 {
+    font-size: 42px;
+    color: red;
+    text-align: center;
+    }
+
+/* Creation of a class with . command */
+
+.red {                        
+    color: yellow; 
+}
+
+p {
+    text-align: center;
+}
+
