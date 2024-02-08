@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/00_to_do_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/01_strange_zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/02_lessons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/03_lists_statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/04_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals Python/05_lists_basics/05_numbers_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2024_20_01_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_01_2024_20_01__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals Python/02_basic_syntax_conditional_statements_and_loops/01_jennys_message.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705346128281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First row added&#10;second">
+      <option name="closed" value="true" />
+      <created>1707138540835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707138540835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
