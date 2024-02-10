@@ -14,10 +14,12 @@
 from datetime import datetime   
 
 def add_stats(name, weight, height, bmi, current_date):
+    """creates a file with data abut name, weight, height, bmi and the date the entry was made, will be used for eventual graph """
     with open('data.txt', 'a') as f:
         f.write(str(name) + "|" + str(weight) + "|" + str(height) + "|" + str(bmi) + "|" + str(current_date) + "\n")   
 
 def view_stats():
+    """ opens the mentioned above file """
     with open('data.txt', 'r') as f:
         for line in f.readlines():
             info = line.rstrip()
