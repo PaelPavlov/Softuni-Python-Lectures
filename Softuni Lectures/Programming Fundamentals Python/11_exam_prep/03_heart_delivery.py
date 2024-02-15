@@ -1,3 +1,4 @@
+# neighborhood = [int(house) for house in input().split("@")]
 neighborhood = list(map(int, input().split('@')))
 current_index = 0
 
