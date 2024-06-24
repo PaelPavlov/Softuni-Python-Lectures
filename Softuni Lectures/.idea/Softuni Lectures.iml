@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Programming basic Python/11_nested_loops" />
       <excludeFolder url="file://$MODULE_DIR$/Programming basic Python/12_nested_loops_practice" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
