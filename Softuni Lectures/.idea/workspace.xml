@@ -5,42 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32bc52cd-1eb8-4764-982b-1ae9a547382d" name="Changes" comment="First row added&#10;second">
-      <change afterPath="$PROJECT_DIR$/QA Fundamentals/asd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Fundamentals/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA Fundamentals/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/16_workshop_tictactoe/tic_tac_toe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/01_recursive_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/02_recursive_factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/03_recursive_drawing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/04_sum_of_coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/05_set_cover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/06_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/07_selection_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/08_bubble_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/algorithms/09_insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam/bessy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/chicken_snack_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/clear_skies_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/cookbook_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/delivery_boy_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/fishing_competition_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/flower_finder_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/hourly_forecast_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/martian_explorer_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/monster_extermination_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/mouse_in_the_kitchen_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/movie_organizer_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/naughty_or_nice_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/navy_battle_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/offroad_challenge_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/pets_hotel_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/ramen_shop_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/team_line_up_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/the_gambler_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Softuni Advanced/exam_prep/worms_and_holes_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/01_first_steps_into_oop/01_rhombus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/01_first_steps_into_oop/02_scope_mess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/01_first_steps_into_oop/03_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/01_first_steps_into_oop/04_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/01_first_steps_into_oop/05_music.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/01_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/02_hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/03_employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/04_cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/05_flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/06_steam_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/07_programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/02_first_steps_into_oop/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/03_classes_and_objects/01_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/03_classes_and_objects/02_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/03_classes_and_objects/03_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/03_classes_and_objects/04_glass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/03_classes_and_objects/05_smartphone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/01_vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/02_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/03_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/04_Pizz_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/05_task/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/05_task/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softuni OOP/04_classes_and_objects_exercise/05_task/project/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Softuni Lectures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Softuni Lectures.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -92,23 +83,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Visual Studio Code/Softuni Lectures/Programming Fundamentals Python/00_extra_tasks/basic web project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Visual Studio Code/Softuni Lectures/Softuni OOP",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Visual Studio Code\Programming Basics Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Visual Studio Code\Softuni Lectures\Softuni OOP\02_first_steps_into_oop\project" />
       <recent name="E:\Visual Studio Code\" />
       <recent name="E:\Visual Studio Code\Programming Basics Python" />
       <recent name="E:\Visual Studio Code\Programming Basics Python\Programming basic Python" />
@@ -116,7 +108,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="bessy2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni Lectures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Softuni Advanced/exam/bessy2.py" />
+      <option name="SCRIPT_NAME" value="E:\Visual Studio Code\Softuni Lectures\Softuni Advanced\exam\ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bessy2" />
+        <item itemvalue="Python.ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717695175411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First row added&#10;second">
+      <option name="closed" value="true" />
+      <created>1719245734307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719245734307</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,11 +390,6 @@
           <url>file://$PROJECT_DIR$/Softuni Advanced/exam/ex1.py</url>
           <line>8</line>
           <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Softuni Advanced/exam/ex2.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

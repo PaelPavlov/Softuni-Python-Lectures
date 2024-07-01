@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/udemy_practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Softuni OOP/04_classes_and_objects_exercise/05_task" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Programming basic Python/11_nested_loops" />
       <excludeFolder url="file://$MODULE_DIR$/Programming basic Python/12_nested_loops_practice" />
     </content>
