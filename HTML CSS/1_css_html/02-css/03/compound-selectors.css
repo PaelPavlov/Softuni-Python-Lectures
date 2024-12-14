@@ -1,0 +1,31 @@
+p.text-highlight {
+    color: #007BFF;
+    font-size: 18px;
+}
+
+div#special-box {
+    background-color: #FFC107;
+}
+
+.important-item.special-highlight {
+    font-style: italic;
+    font-weight: bold;
+    color: #DC3545;
+}
+
+.box.shadow {
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.important-item {
+    color: #17A2B8;
+}
+
+.fancy[href^="http"] {
+    border-bottom: 1px solid orange;
+    color: orange;
+}
+
+.subtitle.fancy {
+    color: blue;
+}

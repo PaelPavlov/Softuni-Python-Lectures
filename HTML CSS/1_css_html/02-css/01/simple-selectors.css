@@ -1,0 +1,36 @@
+/* Type Selectors */
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Class Selectors */
+.highlight {
+    background-color: yellow;
+}
+
+/* ID Selectors */
+#main-title {
+    color: green;
+}
+
+#special-paragraph {
+    font-style: italic;
+}
+
+/* Styling for ul and li */
+ul {
+    list-style-type: square;
+}
+
+li {
+    color: red;
+}
+
+/* Div Styling */
+div {
+    background-color: lightgrey;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form with Floating Labels</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="contact-form-container">
+        <form class="contact-form">
+            <h2>Contact</h2>
+
+            <div class="form-group">
+                <input type="text" id="name" required placeholder="First Name">
+                <label for="name">Your Name</label>
+                <span class="helper info">First and Last name is enough</span>
+            </div>
+
+            <div class="form-group">
+                <input type="email" id="email" required>
+                <label for="email">Email</label>
+            </div>
+
+            <div class="form-group">
+                <input type="text" id="subject" required>
+                <label for="subject">Subject</label>
+            </div>
+
+            <div class="form-group">
+                <textarea id="message" rows="5" required></textarea>
+                <label for="message">Message</label>
+            </div>
+
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dynamic-validation.css">
+    <!-- <script src="dynamic-validation.js"></script> -->
+    <title>Dynamic Validation</title>
+</head>
+<body>
+
+    <form>
+        <label for="email">Enter email:</label>
+        <input id="email" type="text" required pattern="[a-z]+@[a-z]+\.[a-z]+" />
+        <button>Submit</button>
+    </form>
+
+    <style>
+
+        form input:user-invalid {
+            border-color: red;
+        }
+
+    </style>
+
+</body>
+</html>

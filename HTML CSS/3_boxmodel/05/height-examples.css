@@ -1,0 +1,28 @@
+.example {
+    border: 2px solid #000;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.fixed-height {
+    height: 200px;
+}
+
+.percentage-height {
+    height: 50%; /* Will only work if parent's height is defined */
+}
+
+.viewport-height {
+    height: 50vh;
+}
+
+.min-max-height {
+    height: 80vh;
+    max-height: 300px;
+    min-height: 100px;
+}
+
+p {
+    margin: 5px;
+    font-size: 16px;
+}

@@ -1,0 +1,16 @@
+.example {
+    border: 2px solid #000;
+    padding: 20px;
+}
+
+#uniform-margin {
+    margin: 20px;
+}
+
+#non-uniform-margin {
+    margin: 10px 30px 20px 40px;
+}
+
+#negative-margin {
+    margin-top: -20px;
+}
